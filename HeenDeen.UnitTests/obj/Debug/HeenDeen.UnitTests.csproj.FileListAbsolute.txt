@@ -1,0 +1,14 @@
+D:\SkyDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.UnitTests.dll
+D:\SkyDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.UnitTests.pdb
+D:\SkyDrive\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.dll
+D:\SkyDrive\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.pdb
+D:\SkyDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.dll
+D:\SkyDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.pdb
+C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.dll
+C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.UnitTests.dll
+C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.UnitTests.pdb
+C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.dll
+C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.pdb
+C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.pdb
