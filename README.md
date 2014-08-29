@@ -44,6 +44,6 @@ So you've made your one object, but surely you don't want to iterate the above! 
         })
         .DoIt();
 
-The above looks fairly obvious I hope, you tell the initializer how many you want with `.GiveMe(N)` and pass it a configuration through `.ConfigureWith(config).
+The above looks fairly obvious I hope, you tell the initializer how many you want with `.GiveMe(N)` and pass it a configuration through `.ConfigureWith(config)`.
 
 That's pretty much it for now, I've got quite a few plans for this because it's something I've been wanting to do for a while now, specifically the fluent API thing so keep checking in.
