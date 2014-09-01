@@ -8,3 +8,8 @@ C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen\bin\Debug\HeenDeen.pdb
 C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen\obj\Debug\HeenDeen.csprojResolveAssemblyReference.cache
 C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen\obj\Debug\HeenDeen.dll
 C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen\obj\Debug\HeenDeen.pdb
+C:\Projects\HeenDeen\HeenDeen\obj\Debug\HeenDeen.csprojResolveAssemblyReference.cache
+C:\Projects\HeenDeen\HeenDeen\obj\Debug\HeenDeen.dll
+C:\Projects\HeenDeen\HeenDeen\bin\Debug\HeenDeen.dll
+C:\Projects\HeenDeen\HeenDeen\bin\Debug\HeenDeen.pdb
+C:\Projects\HeenDeen\HeenDeen\obj\Debug\HeenDeen.pdb

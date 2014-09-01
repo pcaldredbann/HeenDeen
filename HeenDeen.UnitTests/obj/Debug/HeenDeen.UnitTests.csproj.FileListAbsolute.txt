@@ -12,3 +12,10 @@ C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.
 C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.dll
 C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.pdb
 C:\Users\paula\OneDrive\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.pdb
+C:\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.csprojResolveAssemblyReference.cache
+C:\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.dll
+C:\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.UnitTests.dll
+C:\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.UnitTests.pdb
+C:\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.dll
+C:\Projects\HeenDeen\HeenDeen.UnitTests\bin\Debug\HeenDeen.pdb
+C:\Projects\HeenDeen\HeenDeen.UnitTests\obj\Debug\HeenDeen.UnitTests.pdb
