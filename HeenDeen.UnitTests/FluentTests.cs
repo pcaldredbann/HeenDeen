@@ -6,10 +6,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace HeenDeen.UnitTests
 {
     [TestClass]
-    public class APITests
+    public class FluentTests
     {
         [TestMethod]
-        public void Can_fluently_generate_objects()
+        public void Can_fluently_create_objects()
         {
             ICollection<Person> result = 
                 new HeenDeen<Person>()

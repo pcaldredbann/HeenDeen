@@ -6,18 +6,18 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HeenDeen
+namespace HeenDeen.Core
 {
-    public class Property<TType>
+    public sealed class Property<TType> where TType : class
     {
         private Compiler<TType> _compiler;
-        private PropertyInfo _target;
-        private object _value;
+        private PropertyInfo _targetProperty;
+        private object _intendedValue = null;
 
         public Property(Compiler<TType> compiler, PropertyInfo property)
         {
             _compiler = compiler;
-            _target = property;
+            _targetProperty = property;
         }
 
         public Property<TType> AsA()
@@ -27,14 +27,13 @@ namespace HeenDeen
 
         public Compiler<TType> Value(object value)
         {
-            _value = value;
+            _intendedValue = value;
             return _compiler;
         }
 
-        public TType Compute()
+        public TType Compute(TType instance)
         {
-            var instance = (TType)Activator.CreateInstance(typeof(TType));
-            _target.SetValue(instance, _value);
+            _targetProperty.SetValue(instance, _intendedValue);
             return instance;
         }
     }
